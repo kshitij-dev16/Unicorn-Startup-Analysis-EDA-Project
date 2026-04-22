@@ -282,8 +282,8 @@ This project demonstrates the power of **EDA in uncovering hidden patterns** in 
 
 ## 🤝 Team Members
 
-- Harshit  
-- Khush Chauhan  
-- Krishiv Sharma  
-- Kshitij Dalvi  
+- Harshit - 25070123053
+- Khush Chauhan  - 25070123062
+- Krishiv Sharma  - 25070123065
+- Kshitij Dalvi  - 25070123066
 
